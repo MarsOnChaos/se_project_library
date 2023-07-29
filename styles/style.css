@@ -266,7 +266,7 @@
   color: #fff;
 }
 
-.staff__content {
+.staff__cards {
   max-width: 760px;
   margin: 68px auto;
   display: flex;
@@ -409,7 +409,7 @@
   border-radius: 50%;
   position: absolute;
   z-index: 0;
-  top: -120px;
+  top: -121px;
   left: -91px;
 }
 
